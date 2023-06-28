@@ -1,0 +1,27 @@
+
+	IDEA/ CONCEPT
+     Making a mobile phone
+
+	FEATURES
+1. lcd
+2. keyboard/keypad
+3. mmc
+4. touch light (led)
+5. gsm comms(make calls, send/recieve sms)
+6, battery (charging)
+7, Temperature
+8, distance
+
+	EXTRAS
+
+1. accelerometer
+2. gyroscope
+
+
+	DESIGN CONSIDERATION
+
+MODULES--------OPTIONS----------------------------COMMS PROTOCOL
+1. GSM         	SIM800l
+2. LCD		OLED
+3. KEYBOARD  	
+4. U-CONTROLLER	ESP32,
